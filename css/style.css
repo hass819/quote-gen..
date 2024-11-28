@@ -1,0 +1,34 @@
+
+@font-face {
+    font-family: 'jero';
+    src: url(../webfonts/Jaro_24pt-Regular.ttf);
+}
+
+
+
+h1 {
+    font-size: 80px;
+    font-weight: 900;
+    margin: 50px;
+    font-family: 'jero';
+}
+
+p {
+    font-size: 35px;
+}
+
+
+
+
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    margin: 25px;
+}
+
+button:hover {
+    background-color: green;
+}
